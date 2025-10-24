@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "demo-server": {
+      "command": "node",
+      "args": ["-e", "require('tsx/cjs').register(); require('./server.ts')"],
+      "cwd": "C:\\Users\\daand\\Desktop\\school\\3dejaar\\software_trends\\mcp"
+    }
+  }
+}

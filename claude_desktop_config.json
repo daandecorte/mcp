@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "demo-server": {
+      "command": "node",
+      "args": ["C:\\Users\\daand\\Desktop\\school\\3dejaar\\software_trends\\mcp\\server.js"]
+    }
+  }
+}
